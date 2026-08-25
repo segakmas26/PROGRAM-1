@@ -1,0 +1,8 @@
+{
+  "name": "WARiS MAMAT + HAFSAH ",
+  "description": "Mengumpul dan merekod salsilah susur galur keturunan mamat dan Hafsah, Kampung Tanjung Belur, Pengkalan Berangan, Marang, Terengganu",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
